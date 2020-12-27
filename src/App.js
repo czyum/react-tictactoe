@@ -83,7 +83,7 @@ const App = () => {
             </div>
           ) : (
             <h1 className=" text-success text-center ">
-              {isCross ? "Cross" : "Circle"} turns
+              {isCross ? "Cross" : "Circle"}'s turn
             </h1>
           )}
           <div className="grid">
